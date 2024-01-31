@@ -18,4 +18,4 @@ In AWS, I meticulously configured an auto-scaling group to ensure that the websi
 
 ## AWS Infrastructure Diagram
 
-![AWS Diagram](/diagram/aws-diagram.png)
+![AWS Diagram](/AWS-Structure.png)
